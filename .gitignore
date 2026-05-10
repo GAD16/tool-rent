@@ -1,0 +1,15 @@
+﻿# JetBrains IDEs (PhpStorm, IntelliJ, etc.)
+.idea/
+*.iml
+
+# OS / local noise
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env / local config
+.env
+.env.*
+!.env.example
